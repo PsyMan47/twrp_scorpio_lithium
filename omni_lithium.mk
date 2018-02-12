@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := scorpio
+PRODUCT_RELEASE_NAME := lithium
 
 $(call inherit-product, build/target/product/embedded.mk)
 
@@ -27,8 +27,8 @@ PRODUCT_COPY_FILES += \
     bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := scorpio
-PRODUCT_NAME := omni_scorpio
+PRODUCT_DEVICE := lithium
+PRODUCT_NAME := omni_lithium
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := MI Note 2
+PRODUCT_MODEL := MI Mix
 PRODUCT_MANUFACTURER := Xiaomi

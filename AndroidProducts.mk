@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_scorpio.mk
+    $(LOCAL_DIR)/omni_lithium.mk

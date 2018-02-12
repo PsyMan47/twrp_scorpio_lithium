@@ -1,2 +1,2 @@
-add_lunch_combo omni_scorpio-eng
-add_lunch_combo omni_scorpio-userdebug
+add_lunch_combo omni_lithium-eng
+add_lunch_combo omni_lithium-userdebug
